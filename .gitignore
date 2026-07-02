@@ -1,0 +1,5 @@
+.npm/
+.ssh/
+.termux/
+.gitconfig
+node_modules/
